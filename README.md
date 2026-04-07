@@ -29,6 +29,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="assets/1.png" alt="PolyReal teaser" width="95%">
+</p>
 
 ## 🔥 Overview
 
@@ -49,10 +52,9 @@ The benchmark contains **545 high-quality question-answer pairs** built from **r
 
 ## 🖼️ Teaser
 
-> Replace the image below with your own figure, for example `assets/teaser.png`.
 
 <p align="center">
-  <img src="assets/teaser.png" alt="PolyReal teaser" width="95%">
+  <img src="assets/2.png" alt="PolyReal teaser" width="95%">
 </p>
 
 <p align="center">
@@ -132,6 +134,10 @@ Our benchmark shows that even strong models still face substantial challenges wh
 
 ## 🏆 Main Findings
 
+<p align="center">
+  <img src="assets/3.png" alt="PolyReal teaser" width="95%">
+</p>
+
 - Leading closed-source models achieve the strongest overall performance.
 - Models tend to perform better on **knowledge-intensive reasoning** tasks.
 - Performance drops substantially on **practice-based tasks**, especially:
@@ -139,6 +145,8 @@ Our benchmark shows that even strong models still face substantial challenges wh
   - **Raw Data Extraction and Analysis**
 - Many strong models show **high recall but relatively low precision**, suggesting a tendency toward verbose yet noisy scientific answers.
 - Performance also varies notably across **different polymer sub-fields**.
+
+
 
 ---
 
@@ -309,19 +317,9 @@ result/                # Output directory for inference and evaluation
 logs/                  # Log files
 ```
 
----
 
-## 📈 Leaderboard
 
-You can replace the table below with your final released numbers.
 
-| Model | Overall F1 | Notes |
-|------|------------|-------|
-| O3 | Coming soon | Closed-source |
-| GPT-5 | Coming soon | Closed-source |
-| Claude Sonnet 4.5 | Coming soon | Closed-source |
-| Gemini 2.5 Pro | Coming soon | Closed-source |
-| Qwen3-VL | Coming soon | Open-source |
 
 ---
 
