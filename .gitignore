@@ -1,0 +1,11 @@
+result/
+logs/
+*.jsonl
+temp.json
+__pycache__/
+*.pyc
+.env
+# Dataset files (hosted on Hugging Face)
+PolyReal.json
+ref/
+release_dataset/
