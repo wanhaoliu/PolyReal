@@ -33,6 +33,10 @@
   <img src="assets/1.png" alt="PolyReal teaser" width="95%">
 </p>
 
+<p align="center">
+  <strong>Website:</strong> <a href="https://polyreal-benchmark.github.io/">https://polyreal-benchmark.github.io/</a>
+</p>
+
 ## 🔥 Overview
 
 **PolyReal** is a **multimodal benchmark for real-world polymer science workflows**.  
